@@ -4,10 +4,8 @@ title: "Systemd Journal Logging Inside Docker Container"
 date: 2014-10-12T22:27:01+01:00
 modified:
 categories: [docker, systemd]
-excerpt:
 tags: [docker, journald, systemd, logging, containers]
 ---
-
 There are a lot of companies which are still discovering puppet, chef or
 saltstack. Sadly, there are ones which are yet to discover configuration
 management. While companies like Google have been running everything inside
