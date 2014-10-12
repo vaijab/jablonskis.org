@@ -1,0 +1,44 @@
+# Site wide configuration
+
+title:            Vaidas Jablonskis
+locale:           en_US
+# url:              http://localhost:4000
+url:              http://jablonskis.org
+description:      Personal thoughts on Linux, open source and anything else.
+
+
+# Jekyll configuration
+
+permalink:   /:year/:title
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name:        Vaidas Jablonskis
+  avatar:      bio-photo.jpg
+  email:       jablonskis@gmail.com
+  twitter:     vaijab
+  github:      vaijab
+  disqus-shortname:
+  google:
+    plus: https://plus.google.com/u/0/112500968398778336156/about
+    analytics: UA-25430519-1
+    verify:
+  linkedin: vaijab
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
