@@ -2,6 +2,7 @@
 date: 2011-05-06 00:55:11+00:00
 layout: post
 slug: counting-new-connections-per-second-linux
+comments: true
 title: Counting NEW Connections per Second on a Linux Firewall
 categories:
 - linux

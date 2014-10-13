@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Systemd Journal Logging Inside Docker Container"
 date: 2014-10-12T22:27:01+01:00
 modified:

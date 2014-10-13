@@ -2,6 +2,7 @@
 date: 2011-11-11 01:24:14+00:00
 layout: post
 slug: howto-log-bash-history-to-syslog
+comments: true
 title: HOWTO Log Bash History to Syslog
 categories:
 - bash

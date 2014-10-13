@@ -2,6 +2,7 @@
 date: 2011-11-06 16:03:24+00:00
 layout: post
 slug: free-dns-hosting-what-happened
+comments: true
 title: Free DNS Hosting - What Happened?
 categories:
 - linux

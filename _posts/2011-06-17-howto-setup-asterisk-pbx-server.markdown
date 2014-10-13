@@ -2,6 +2,7 @@
 date: 2011-06-17 00:02:20+00:00
 layout: post
 slug: howto-setup-asterisk-pbx-server
+comments: true
 title: Howto Setup an Asterisk PBX Server
 categories:
 - articles

@@ -2,6 +2,7 @@
 date: 2011-05-19 21:31:47+00:00
 layout: post
 slug: monitoring-multiple-clusters-using-ganglia
+comments: true
 title: Monitoring Multiple Clusters using Ganglia
 categories:
 - clustering

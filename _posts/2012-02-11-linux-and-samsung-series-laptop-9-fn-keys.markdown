@@ -2,6 +2,7 @@
 date: 2012-02-11 22:20:16+00:00
 layout: post
 slug: linux-and-samsung-series-laptop-9-fn-keys
+comments: true
 title: Linux And Samsung Series 9 Laptop Fn Keys
 categories:
 - laptop

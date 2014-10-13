@@ -2,6 +2,7 @@
 date: 2013-07-16 22:33:03+00:00
 layout: post
 slug: devops-for-building-shippable-code
+comments: true
 title: 'DevOps for Building Shippable Code '
 categories:
 - DevOps

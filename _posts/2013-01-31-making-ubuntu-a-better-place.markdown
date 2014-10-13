@@ -2,6 +2,7 @@
 date: 2013-01-31 01:55:39+00:00
 layout: post
 slug: making-ubuntu-a-better-place
+comments: true
 title: Making Ubuntu a Better Place
 categories:
   - linux

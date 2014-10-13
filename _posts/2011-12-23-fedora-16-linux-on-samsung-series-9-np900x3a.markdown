@@ -2,6 +2,7 @@
 date: 2011-12-23 02:54:18+00:00
 layout: post
 slug: fedora-16-linux-on-samsung-series-9-np900x3a
+comments: true
 title: Fedora 16 Linux on Samsung Series 9 (NP900X3A) Laptop
 categories:
 - laptop

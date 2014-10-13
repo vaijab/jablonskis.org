@@ -2,6 +2,7 @@
 date: 2011-07-07 23:10:27+00:00
 layout: post
 slug: desperate-for-centos-6
+comments: true
 title: Desperate for CentOS 6!
 categories:
 - articles

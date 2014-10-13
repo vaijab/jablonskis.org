@@ -2,6 +2,7 @@
 layout: {{ layout }}
 title: {{ title }}
 modified:
+comments:
 categories: {{ dir }}
 tags: []
 ---

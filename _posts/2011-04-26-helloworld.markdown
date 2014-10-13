@@ -3,6 +3,7 @@ comments: true
 date: 2011-04-26 22:29:45+00:00
 layout: post
 slug: helloworld
+comments: true
 title: Hello World!
 wordpress_id: 13
 ---

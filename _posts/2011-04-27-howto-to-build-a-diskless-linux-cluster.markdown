@@ -2,6 +2,7 @@
 date: 2011-04-27 14:23:37+00:00
 layout: post
 slug: howto-to-build-a-diskless-linux-cluster
+comments: true
 title: Howto to Build a Diskless Linux Cluster
 categories:
 - linux

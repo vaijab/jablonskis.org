@@ -2,6 +2,7 @@
 date: 2011-09-25 20:34:50+00:00
 layout: post
 slug: howto-rebuild-centos-6-0-linux-kernel
+comments: true
 title: Howto Rebuild CentOS 6.0 Linux Kernel
 categories:
 - articles

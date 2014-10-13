@@ -2,6 +2,7 @@
 date: 2011-08-21 22:11:45+00:00
 layout: post
 slug: persistent-iscsi-lun-device-name
+comments: true
 title: Persistent iSCSI LUN Device Name
 categories:
 - linux

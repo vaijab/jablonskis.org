@@ -2,6 +2,7 @@
 date: 2011-10-26 15:50:47+00:00
 layout: post
 slug: starting-kickstart-installation-via-grub
+comments: true
 title: Starting Kickstart installation via GRUB
 categories:
 - kickstart

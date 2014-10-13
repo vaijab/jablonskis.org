@@ -2,6 +2,7 @@
 date: 2013-03-22 00:50:29+00:00
 layout: post
 slug: elasticsearch-and-logstash-tuning
+comments: true
 title: ElasticSearch and Logstash Tuning
 categories:
 - howto
