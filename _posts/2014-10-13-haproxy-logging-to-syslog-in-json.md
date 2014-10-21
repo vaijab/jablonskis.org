@@ -7,7 +7,7 @@ comments: true
 tags: [haproxy, linux, docker, syslog, json]
 ---
 HAProxy is amazing piece of software. It is rock solid, extremely flexible and
-has been proven by many comanies which depend on it.
+has been proven by many companies which depend on it.
 
 I use haproxy as a load balancer and service discovery. It runs on each CoreOS
 node and proxies traffic through to healthy services running on CoreOS cluster
